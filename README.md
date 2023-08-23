@@ -150,8 +150,6 @@ The frontend will be available at http://localhost:3000.
 
 The backend API will be available at http://localhost:8080.
 
-## Demo
-
 **User Scenarios:**
 A college student who is moving to a new country would want to use the home finder application to search for affordable apartments or roommates near their university. They can open the application and enter property or roommate preferences, such as the number of roommates,pets, rent contribution. The application presents them with a list of available housing options, and they are able to view photos and read details. If they find a property that they are interested in, they are able to like it.
 
@@ -159,63 +157,33 @@ A college student who is moving to a new country would want to use the home find
 
 The application starts with the login page. It also provides an option to Register if the user has not already registered.
 
-![alt text](https://git.cs.dal.ca/courses/2023-winter/csci-5308/group17/-/raw/dev/Images/LoginPage.png)
-
 ### Register:
 
 The registration page provides an option to the user to register by providing basic personal information.
-
-![alt text](https://git.cs.dal.ca/courses/2023-winter/csci-5308/group17/-/raw/dev/Images/Register.png)
 
 ### Preferences:
 
 The user can add property preferences and the roommate preferences. Property preference refers to the kind of property they are looking for and roommate preferences refer to the basic habits that would prefer in their roommates.
 
-![alt text](https://git.cs.dal.ca/courses/2023-winter/csci-5308/group17/-/raw/dev/Images/Preferences.png)
-
 ### All Listings
 
 This page shows all the listings as per the preference of the user. To view the images of the listing the user can click on show details.
-
-![alt text](https://git.cs.dal.ca/courses/2023-winter/csci-5308/group17/-/raw/dev/Images/AllListings.png)
 
 ### Profile Page
 
 Profile page provides an option to the user to edit their information and to view their group members, view the users they have liked, create a listing, view groups, edit preferences and view their like requests.
 
-![alt text](https://git.cs.dal.ca/courses/2023-winter/csci-5308/group17/-/raw/dev/Images/Profilepage.png)
-
 ### Groups
 
 If the user is not in a group then it shows the recommended groups to the user. If the user is already in a group then it won't recommend any group to the user.
-
-![alt text](https://git.cs.dal.ca/courses/2023-winter/csci-5308/group17/-/raw/dev/Images/Groups.png)
 
 ### Create Listings
 
 From the profile page the user can create a listing and upload basic details along with the pictures.
 
-![alt text](https://git.cs.dal.ca/courses/2023-winter/csci-5308/group17/-/raw/dev/Images/CreateListing.png)
-
 ### Signout
 
 After signing out the user is re directed to the login and register page.
 
-![alt text](https://git.cs.dal.ca/courses/2023-winter/csci-5308/group17/-/raw/dev/Images/LoginPage.png)
-
 ### Code Coverage
 We have covered around 69% of the unit tests cases
-![alt text](https://git.cs.dal.ca/courses/2023-winter/csci-5308/group17/-/raw/dev/Images/CodeCoverage.png)
-
-
-## Authors
-
-- Dhanesh Walte - B00934223 - dhaneshwalte@dal.ca
-
-- Maulik Gajipara - B0034641 - ml477880@dal.ca
-
-- Muskan Vazirani - B00912626 - muskan@dal.ca
-
-- Naveen Kunapaneni - B00930132 - nv676973@dal.ca
-
-- Sreya Gajjipara - B00922295 - sr228618@dal.ca
